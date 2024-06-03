@@ -26,4 +26,8 @@ public class TaxApplication {
 			VerifiedUserRepository.save(VerifiedUser.builder().name("조조").regNo("810326-2715702").build());
 		};
 	}
+
+
+
+
 }
